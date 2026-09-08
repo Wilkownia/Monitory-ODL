@@ -1,4 +1,5 @@
 # Monitory-ODL
+F2 ----> otwiera panel admina !!!
 System Digital Signage do wyświetlania zdjęć, stron WWW i komunikatów na monitorach hali produkcyjnej. Panel administratora, harmonogramy i komunikaty pełnoekranowe.
 # 🖥️ Monitory ODL
 
